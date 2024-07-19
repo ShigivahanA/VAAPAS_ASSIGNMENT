@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/VAAPAS_ASSIGNMENT/static/css/main.b0bc324b.css",
+    "main.js": "/github.io/VAAPAS_ASSIGNMENT/static/js/main.f3eeae70.js",
+    "static/js/453.d150de9e.chunk.js": "/github.io/VAAPAS_ASSIGNMENT/static/js/453.d150de9e.chunk.js",
+    "index.html": "/github.io/VAAPAS_ASSIGNMENT/index.html",
+    "main.b0bc324b.css.map": "/github.io/VAAPAS_ASSIGNMENT/static/css/main.b0bc324b.css.map",
+    "main.f3eeae70.js.map": "/github.io/VAAPAS_ASSIGNMENT/static/js/main.f3eeae70.js.map",
+    "453.d150de9e.chunk.js.map": "/github.io/VAAPAS_ASSIGNMENT/static/js/453.d150de9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0bc324b.css",
+    "static/js/main.f3eeae70.js"
+  ]
+}
